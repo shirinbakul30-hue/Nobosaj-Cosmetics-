@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Nobosaj Cosmetics",
+  "short_name": "Nobosaj",
+  "description": "Nobosaj Cosmetics online beauty and care store",
+  "lang": "bn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff9f8",
+  "theme_color": "#171512",
+  "categories": [
+    "shopping",
+    "beauty"
+  ]
+}
